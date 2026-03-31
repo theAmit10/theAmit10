@@ -1,87 +1,84 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=280&section=header&text=Amit%20Kumar%20Prasad&fontColor=ffffff&fontSize=52&fontAlignY=45&desc=Mobile%20Engineer%20%E2%80%94%20I%20build%20apps%20people%20actually%20use&descFontColor=555555&descSize=16&descAlignY=65&animation=twinkling"/>
-
 <div align="center">
 
-```
-Available for hire  ·  React Native  ·  India
-```
+<!-- Dynamic Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Amit+Kumar+Prasad;Mobile+Engineer+%7C+React+Native+%E2%9A%A1;Indie+Developer+%7C+Problem+Solver+%F0%9F%9A%80;Building+Products+That+Matter+%F0%9F%93%B1)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=555)](mailto:prasadak66@gmail.com)
-[![](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=555)](https://github.com/theamit)
-[![](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=555)](https://linkedin.com)
-[![](https://img.shields.io/badge/-StackOverflow-000?style=flat&logo=stackoverflow&logoColor=555)](https://stackoverflow.com/users/prasadak66)
+<br/>
+
+<!-- Profile Views + Social Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=theamit&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![Gmail](https://img.shields.io/badge/Gmail-prasadak66%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadak66@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-prasadak66-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com)
 
 </div>
 
 ---
 
-```js
-const amit = {
-  role:    "Mobile Engineer",
-  stack:   ["React Native", "TypeScript", "Firebase", "RevenueCat"],
-  ships:   "end-to-end — from idea to App Store, alone if needed",
-  status:  "open",
-}
+## About Me
+
+```typescript
+const amit: MobileEngineer = {
+  name:       "Amit Kumar Prasad",
+  role:       "Mobile Engineer (React Native)",
+  location:   "India 🇮🇳",
+  experience: "3+ years building production apps",
+  education:  "B.Tech CSE — TRUBA Institute (7.8/10)",
+
+  currentFocus: [
+    "Shipping indie apps on Google Play",
+    "Scalable React Native architectures",
+    "Monetization with RevenueCat & AdMob",
+  ],
+
+  achievements: {
+    codechef:   "Max Rating 1842 ⭐ (@theamit)",
+    hackerrank: "4-Star Coder (@prasadak66)",
+  },
+
+  philosophy: "Ship fast. Scale smart. Retain users. 🚀",
+};
 ```
 
 ---
 
-**`12+`** &nbsp; production apps shipped &nbsp;&nbsp; **`3+`** &nbsp; years building &nbsp;&nbsp; **`1842`** &nbsp; CodeChef rating &nbsp;&nbsp; **`top 2%`** &nbsp; first internship pick
-
----
-
-## Work
-
-**Freelance & Indie** &nbsp;·&nbsp; *2024 — now*
-> Delivered 6 freelance apps + 3 self-published indie apps on Google Play. Solo. No team, no budget — just shipping. RevenueCat subscriptions, AdMob monetization, zero missed deadlines.
-
-**DWSIT** &nbsp;·&nbsp; Mobile Developer &nbsp;·&nbsp; *2023 — 2024*
-> Led 6 production apps (Android + iOS). Cut dev time 25% with reusable architecture. Mentored juniors, owned App Store releases.
-
-**PUJAGOODIES** &nbsp;·&nbsp; Android Intern &nbsp;·&nbsp; *2022 — 2023*
-> Picked top 2% from 100+ applicants. Built flagship Android app from zero — 11,000+ lines of production code in 3 months.
-
----
-
-## Projects
-
-| | | |
-|:---:|:---:|:---:|
-| **Boring Karma** | **Ludo Family** | **Math Brained** |
-| 3D gamified habit tracker | Custom audio Ludo | Math puzzles for kids |
-| `Reanimated · 3D loop` | `100+ users · 10% D30 retention` | `EdTech · clean UX` |
-
----
-
-## Stack
-
-`React Native` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `Java` &nbsp; `Firebase` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `RevenueCat` &nbsp; `AdMob` &nbsp; `Android Studio` &nbsp; `Xcode` &nbsp; `Reanimated` &nbsp; `Git` &nbsp; `Linux`
-
----
-
-## Competitive
-
-```
-CodeChef   →  1842 max rating   @theamit
-HackerRank →  4-star coder      @prasadak66
-```
-
----
+## Tech Stack
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=theamit&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=555555&icon_color=00E5FF&hide_border=true&count_private=true)](https://github.com/theamit)
+**Mobile & Frontend**
 
-[![Streak](https://streak-stats.demolab.com?user=theamit&theme=dark&background=000000&ring=00E5FF&fire=BF5AF2&currStreakLabel=ffffff&sideLabels=555555&dates=333333&hide_border=true)](https://git.io/streak-stats)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Backend & Database**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Monetization & Growth**
+
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F50057?style=for-the-badge&logo=revenuecat&logoColor=white)
+![AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
----
+
 
 <div align="center">
 
-**Let's build something worth using.**
-
-[prasadak66@gmail.com](mailto:prasadak66@gmail.com) &nbsp;·&nbsp; [+91 9564 200 516](tel:+919564200516)
+*"The best apps are built by people who care about users, not just code."*
 
 </div>
