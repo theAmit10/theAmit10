@@ -9,7 +9,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Get_in_touch-prasadak66%40gmail.com-2997FF?style=flat-square&labelColor=0d1117)](mailto:prasadak66@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-e6edf3?style=flat-square&logo=github&logoColor=e6edf3&labelColor=0d1117)](https://github.com/theamit)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-e6edf3?style=flat-square&logo=github&logoColor=e6edf3&labelColor=0d1117)](https://github.com/theAmit10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-e6edf3?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-prasadak66-e6edf3?style=flat-square&logo=stackoverflow&logoColor=F58025&labelColor=0d1117)](https://stackoverflow.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=theamit&color=6e7681&style=flat-square&label=profile+views)
