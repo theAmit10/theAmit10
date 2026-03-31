@@ -70,9 +70,9 @@ HackerRank →  4-star coder      @prasadak66
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=theamit&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=555555&icon_color=00E5FF&hide_border=true&count_private=true)](https://github.com/theAmit10)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=theamit&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=555555&icon_color=00E5FF&hide_border=true&count_private=true)](https://github.com/theamit)
 
-[![Streak](https://streak-stats.demolab.com?user=theAmit10&theme=dark&background=000000&ring=00E5FF&fire=BF5AF2&currStreakLabel=ffffff&sideLabels=555555&dates=333333&hide_border=true)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com?user=theamit&theme=dark&background=000000&ring=00E5FF&fire=BF5AF2&currStreakLabel=ffffff&sideLabels=555555&dates=333333&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
