@@ -9,7 +9,7 @@
 
 ## Apps
 
-* [Habitic](https://apps.apple.com/us/app/habitic-offline-habit-tracker/id6787651215) — Offline habit tracker, no account or cloud sync
+* [Habitic](https://apps.apple.com/us/app/habitic-offline-habit-tracker/id6787651215) — Offline habit tracker, you build habit that build you
 * [Boring Karma](https://apps.apple.com/us/app/boring-karma-goal-tracker/id6758750731) — Goal tracking built around consistency, not gamification
 * [Ludo Family](https://apps.apple.com/us/app/ludo-family-custom-sounds/id6752329845) — Offline multiplayer Ludo with custom sound packs, iOS & Android
 * [Math Brained](https://apps.apple.com/us/app/math-brained/id6752780642) — Timed mental-math puzzle game, iOS & Android
